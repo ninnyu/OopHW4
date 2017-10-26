@@ -1,4 +1,4 @@
-/* 	Oops HW 4
+/* 	Oop HW 4
  * 	@author NinnYu Chin
  * 	Instruction:	Write a program that finds and prints all the solutions to the N-Queens 
  *			problem for a given N. At the end of your program, print how many 
