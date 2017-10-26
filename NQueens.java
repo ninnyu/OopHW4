@@ -1,10 +1,10 @@
-/* Oops HW 4
- * @author NinnYu Chin
- * Description:	A program that finds and prints all the solutions
- * 				to the N-Queens problem for a given N then prints
- * 				how many solutions were found. 0 denotes empty space
- * 				while 1 denotes a queen.
+/* 	Oops HW 4
+ * 	@author NinnYu Chin
+ * 	Instruction:	Write a program that finds and prints all the solutions to the N-Queens 
+ *			problem for a given N. At the end of your program, print how many 
+ *			solutions were found.
  */
+
 import java.util.*;
 
 public class NQueens {
